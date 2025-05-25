@@ -8,6 +8,7 @@
   <li>Print the plan</li>
 </ol>
 
+
 # Example - 1
 ```
 initial_state = {'A': 'Table', 'B': 'Table'}
